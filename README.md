@@ -21,3 +21,7 @@ En el servidor donde se va a publicar ejecutar los siguientes comandos:
 ~~~
 
 ![](tia.jpeg)
+
+### Notas
+- El sistema se desarrollo con el framework Spring.
+- Se realizaron pruebas unitarias y de integración.
