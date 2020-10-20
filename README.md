@@ -22,7 +22,18 @@ En el servidor donde se va a publicar ejecutar los siguientes comandos:
 ~~~
 java -jar quasar-fire-apirest-0.0.1-SNAPSHOT.jar
 ~~~
-![](tia.jpeg)
+
+Si el programa corre exitosamente saldra como en la siguiente patalla:
+
+![](cap1.png)
+
+Luego se puede ejecutar Ctrl+a+d
+
+Con lo que va a quedar el programa corriendo.
+
+Imagen de prueba del programa en postman
+
+![](cap2.png)
 
 ### Notas
 - El sistema se desarrollo con el framework Spring.
