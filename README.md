@@ -17,9 +17,11 @@ copiar el archivo al servidor donde se va a ejecutar.
 
 En el servidor donde se va a publicar ejecutar los siguientes comandos:
 ~~~
- mvn clean package
+ screen -S quasar
 ~~~
-
+~~~
+java -jar quasar-fire-apirest-0.0.1-SNAPSHOT.jar
+~~~
 ![](tia.jpeg)
 
 ### Notas
