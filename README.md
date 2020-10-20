@@ -29,9 +29,9 @@ Si el programa corre exitosamente saldra como en la siguiente patalla:
 
 Luego se puede ejecutar Ctrl+a+d
 
-Con lo que va a quedar el programa corriendo.
+Con lo que va a quedar el programa corriendo en el fondo.
 
-Imagen de prueba del programa en postman
+Imagen de prueba del programa en postman:
 
 ![](cap2.png)
 
