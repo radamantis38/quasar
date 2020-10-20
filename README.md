@@ -20,4 +20,4 @@ En el servidor donde se va a publicar ejecutar los siguientes comandos:
  mvn clean package
 ~~~
 
-![](tia.jpg)
+![](tia.jpeg)
