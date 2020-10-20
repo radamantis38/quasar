@@ -2,12 +2,15 @@
 ### Requerimientos
 
 - JDK 11+
-- Maven
+- Maven  (Para generar el .jar)
 - SCREEN
 
 Este manual es para Ubuntu.
 
 ### Intalación
-En la carpeta del proyecto ejecutar
+En la carpeta del proyecto ejecutar 
+~~~
+ mvn clean package
+~~~
 
 
